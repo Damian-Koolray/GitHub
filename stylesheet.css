@@ -1,0 +1,349 @@
+body {
+  background-color: #ffcf79;
+}
+
+h1 {
+  text-align: center;
+  background-color: #617c13;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+ul {
+  background-color: #9c9f84;
+  margin: 10px;
+  border-radius: 5px;
+  height: 50px;
+}
+
+li {
+  display: inline;
+}
+
+a.link {
+  text-decoration: none;
+  font-family: Arial;
+  padding: .3em 1.6em;
+  border: solid;
+  border-radius: 20px;
+  border-width: medium;
+  color: blue;
+}
+a.link:visited {
+  color: orange;
+}
+
+a.link:hover {
+  color: red;
+}
+
+h2.h2site {
+  text-align: center;
+}
+
+p.p1site {
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+}
+
+img.img1site {
+  border: solid;
+  border-width: medium;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 500px;
+  height: 500px;
+}
+
+p.p1mezelf {
+  text-align: center;
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+p.p1family {
+  text-align: center;
+  background-color: #14943d;
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+img.img1family {
+  border: solid;
+  border-width: medium;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  width: 500px;
+  height: 500px;
+}
+
+h2.h2hobbies {
+  text-align: center;
+}
+
+p.p1hobbies {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img1hobbies {
+  border: solid;
+  border-width: medium;
+  border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  width: 50%;
+  width: 500px;
+  height: 500px;
+}
+
+p.p2hobbies {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img2hobbies {
+  border: solid;
+  border-width: thick;
+  display: block;
+  margin-right: auto;
+  width: 50%;
+  width: 550px;
+  height: 500px;
+}
+
+p.p3hobbies {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 5px;
+  font-size: 17px;
+  text-align: center;
+}
+
+
+img.img3hobbies {
+  border: solid;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 700px;
+  height: 500px;
+}
+
+p.p4hobbies {
+  text-align: center;
+  font-size: 15px;
+}
+
+h2.h2leuk {
+  text-align: center;
+}
+
+p.p1leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 25px;
+  font-size: 20px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+
+img.img1leuk {
+  border: solid;
+  border-width: thick;
+  display: block;
+  width: 300px;
+  height: 300px;
+  margin-left: 1000px;
+  border-radius: 100%;
+}
+
+
+
+p.p2leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img2leuk {
+  border: solid;
+  border-color: red;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 500px;
+  height: 300px;
+}
+
+p.p3leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img3leuk {
+  border: solid;
+  border-color: green;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 300px;
+  height: 400px;
+}
+
+p.p4leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img4leuk {
+  border: solid;
+  border-color: white;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 300px;
+  height: 400px;
+}
+
+p.p5leuk {
+text-align: center;
+font-size: 20px;
+}
+
+p.p6leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img5leuk {
+  border: solid;
+  border-color: orange;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 300px;
+  height: 400px;
+}
+
+p.p7leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img6leuk {
+  border: solid;
+  border-color: purple;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 300px;
+  height: 400px;
+}
+
+p.p8leuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+img.img7leuk {
+  border: solid;
+  border-color: black;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 300px;
+  height: 400px;
+}
+
+p.p9leuk {
+  text-align: center;
+  font-size: 30px;
+}
+
+h2.h2nietleuk {
+  text-align: center;
+  font-size: 25px;
+}
+
+p.p1nietleuk {
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+p.p1eerdere_opleiding {
+  text-align: center;
+  background-color: #d43535;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+img.img1eerdere_opleiding {
+  border: solid;
+  border-color: black;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+p.p1opleiding_nu {
+  text-align: center;
+  background-color: #14943d;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+img.img1opleiding_nu {
+  border: solid;
+  border-color: black;
+  border-width: thick;
+  display: block;
+  margin: auto;
+  width: 50%;
+  width: 600px;
+  height: 500px;
+}
